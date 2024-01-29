@@ -2,4 +2,5 @@
 #include<stdio.h>
 int main () {
     printf("Amogh");
+    return 0;
 }
