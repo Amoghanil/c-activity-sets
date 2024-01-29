@@ -7,5 +7,4 @@ int main () {
     c = a + b;
     printf("the sum of a and b is %d",c);
     return 0;
-    }
-
+}
