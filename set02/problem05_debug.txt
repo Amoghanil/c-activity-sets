@@ -8,3 +8,12 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set02\problem05.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set02/.\problem05.exe
+[New Thread 14348.0x6e0]
+[New Thread 14348.0x2a98]
+enter the number:3
+enter the number:6
+The GCD of 3 and 6 is: 3
+[Inferior 1 (process 14348) exited normally]
+(gdb)

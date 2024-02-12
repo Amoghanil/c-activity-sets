@@ -8,3 +8,11 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set02\problem03.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set02/.\problem03.exe
+[New Thread 18204.0x5c2c]
+[New Thread 18204.0x20d4]
+enter the number:4
+4 is a composite number.
+[Inferior 1 (process 18204) exited normally]
+(gdb)  
