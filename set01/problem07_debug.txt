@@ -7,4 +7,12 @@ and "show warranty" for details.
 This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
-.\problem07.exe: No such file or directory.
+Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem07.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/.\problem07.exe
+[New Thread 7308.0x3078]
+[New Thread 7308.0x5368]
+enter the natural number3
+The sum of all natural numbers until 3 is 6.
+[Inferior 1 (process 7308) exited normally]
+(gdb)
