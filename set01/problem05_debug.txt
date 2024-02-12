@@ -8,3 +8,11 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem05.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/.\problem05.exe
+[New Thread 9348.0xc4c]
+[New Thread 9348.0x5518]
+enter the number:3
+enter the number:4
+enter the number:6
+the largest in 3 , 4, 6 numbers are 6[Inferior 1 (process 9348) exited normally]
