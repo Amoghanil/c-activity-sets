@@ -8,3 +8,14 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem08.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/.\problem08.exe
+[New Thread 10228.0x664]
+[New Thread 10228.0x4b60]
+Enter the number of elements: 4
+Enter 4 numbers:
+2 4 5 7
+The sum of the following 4 numbers is 18:
+2 4 5 7
+[Inferior 1 (process 10228) exited normally]
+(gdb)
