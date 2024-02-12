@@ -3,4 +3,4 @@
 int main () {
     printf("Amogh");
     return 0;
-}
+} 

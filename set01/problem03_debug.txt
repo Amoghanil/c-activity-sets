@@ -8,3 +8,10 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem03.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/.\problem03.exe 
+[New Thread 22416.0x4e58]
+[New Thread 22416.0x57c8]
+enter the number:3
+enter the number:5
+the sum of 3 and 5 is 8[Inferior 1 (process 22416) exited normally]
