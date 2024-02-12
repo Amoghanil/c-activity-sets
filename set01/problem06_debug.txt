@@ -8,3 +8,12 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem06.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/.\problem06.exe
+[New Thread 5116.0x3188]
+[New Thread 5116.0x3718]
+Enter three numbers: 3 56 7
+Numbers: 3, 56, 7
+The largest number is: 56
+[Inferior 1 (process 5116) exited normally]
+(gdb)
