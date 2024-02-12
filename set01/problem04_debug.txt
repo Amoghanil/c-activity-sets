@@ -8,3 +8,11 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem04.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/.\problem04.exe 
+[New Thread 9732.0xd78]
+[New Thread 9732.0x19fc]
+enter first number:34
+enter the second number:45
+34 + 45 = 79
+[Inferior 1 (process 9732) exited normally]
