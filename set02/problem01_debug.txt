@@ -8,3 +8,15 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set02\problem01.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set02/.\problem01.exe
+[New Thread 17956.0x4240]
+[New Thread 17956.0x1364]
+enter the base of the triangle:3
+enter the height of the triangle:5
+
+Base of the triangle: 3.00
+Height of the triangle: 5.00
+Area of the triangle: 7.50
+[Inferior 1 (process 17956) exited normally]
+(gdb)
