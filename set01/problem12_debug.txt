@@ -8,4 +8,17 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem12.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/problem12.exe
+[New Thread 2392.0x52cc]
+[New Thread 2392.0x2c40]
+enter the number of arrays : 2
+Enter the complex number:
+enter the real part: 3
+enter the imaginary part: 4
+enter the real part: 5
+enter the imaginary part: 6
+
+3.0 + 4.0i + 5.0 + 6.0i is 8.0 + 10.0i
+[Inferior 1 (process 2392) exited normally]
 (gdb)
