@@ -8,3 +8,17 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set02\problem02.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set02/.\problem02.exe
+[New Thread 8904.0x4afc]
+[New Thread 8904.0x286c]
+enter the value of the side:3
+enter the value of the side:5
+enter the value of the side:4
+
+Side 1: 3
+Side 2: 5
+Side 3: 4
+The triangle is scalene.
+[Inferior 1 (process 8904) exited normally]
+(gdb)
