@@ -8,3 +8,13 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set01\problem10.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set01/.\problem10.exe
+[New Thread 18640.0x4e6c]
+[New Thread 18640.0x2a58]
+Enter the first string:word 
+Enter the second string: word
+
+word is equal to  word
+[Inferior 1 (process 18640) exited normally]
+(gdb)
