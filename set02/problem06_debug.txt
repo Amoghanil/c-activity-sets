@@ -8,3 +8,11 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set02\problem06.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set02/.\problem06.exe 
+[New Thread 18044.0x5b00]
+[New Thread 18044.0xcec]
+Enter a string: amogh
+Original string: amogh
+Reversed string: hgoma
+[Inferior 1 (process 18044) exited normally]
