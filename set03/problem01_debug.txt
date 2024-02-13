@@ -1,0 +1,18 @@
+GNU gdb (GDB) 7.6.1
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set03\problem01.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set03/.\problem01.exe 
+[New Thread 16892.0x3940]
+[New Thread 16892.0x3604]
+Enter coordinates of point 1 (x1 y1): 3 4
+Enter coordinates of point 2 (x2 y2): 5 6
+The distance between point (3.0000000, 4.0000000) and (5.0000000, 6.0000000) is 2.8284
+[Inferior 1 (process 16892) exited normally]
