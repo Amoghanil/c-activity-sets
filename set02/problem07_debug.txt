@@ -8,3 +8,11 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set02\problem07.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set02/.\problem07.exe 
+[New Thread 6300.0x23cc]
+[New Thread 6300.0x728]
+Enter the base of the triangle:4
+Enter the altitude of the triangle:5
+the area of the triangle with base = 4.000000 and altitude = &.6f is 5.000000
+[Inferior 1 (process 6300) exited normally]
