@@ -8,3 +8,16 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set02\problem08.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set02/.\problem08.exe 
+[New Thread 19268.0x3650]
+[New Thread 19268.0x4a20]
+Enter the number of triangles: 2
+Enter details for triangle 1:
+Enter the base of the triangle: 3
+Enter the altitude of the triangle: 4
+Enter details for triangle 2:
+Enter the base of the triangle: 5
+Enter the altitude of the triangle: 6
+The smallest triangle out of triangles with base and height (3.00,4.00) , (5.00,6.00) is the triangle having base 3.00, height 4.00, and area 6.00
+[Inferior 1 (process 19268) exited normally]
