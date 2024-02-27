@@ -10,9 +10,9 @@ For bug reporting instructions, please see:
 Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set03\problem05.exe...done.
 (gdb) r
 Starting program: C:\Users\Amogh\PSC\c-activity-sets\set03/.\problem05.exe 
-[New Thread 19580.0x50b0]
-[New Thread 19580.0x2708]
-Enter the value of n: 3
-Prime numbers between 2 and 3 are: 2, 3
-[Inferior 1 (process 19580) exited normally]
+[New Thread 15324.0x452c]
+[New Thread 15324.0x13dc]
+Enter the value of n: 5
+Prime numbers between 2 and 5 are: 2, 3, 5,
+[Inferior 1 (process 15324) exited normally]
 (gdb)
