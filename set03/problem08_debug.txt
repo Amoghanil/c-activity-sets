@@ -1,0 +1,25 @@
+GNU gdb (GDB) 7.6.1
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\Amogh\PSC\c-activity-sets\set03\problem08.exe...done.
+(gdb) r
+Starting program: C:\Users\Amogh\PSC\c-activity-sets\set03/.\problem08.exe 
+[New Thread 21096.0x20bc]
+[New Thread 21096.0x2814]
+enter the number of sides of the polygon:
+4
+Enter the coordinates of point1 (x,y):
+34 45
+Enter the coordinates of point2 (x,y):
+Enter the coordinates of point3 (x,y):
+34 56
+Enter the coordinates of point4 (x,y):
+The perimeter of the polygon is 66.000000
+[Inferior 1 (process 21096) exited normally]
+(gdb) 
