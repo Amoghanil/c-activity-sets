@@ -8,7 +8,7 @@ void output(int sum);
 int main () {
     int size, sum;
 
-    int n = input_array_size(); // its wrong
+    int n = input_array_size(); // 
     int numbers[size];
     input_array(size, numbers);
     sum = sum_composite_numbers(size, numbers);
